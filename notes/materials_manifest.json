@@ -1,0 +1,99 @@
+[
+  {
+    "file": "41467_2024_52061_MOESM4_ESM.zip",
+    "bytes": 31054,
+    "sha256": "6b9c99ba0335e86512d07f020060a966f6b6f420f4494f21c966cc6afb9b3573",
+    "contents": [
+      "Comprehensive CASF2016 benchmarks.xlsx"
+    ]
+  },
+  {
+    "file": "s41467-024-52061-7.pdf",
+    "bytes": 1694518,
+    "sha256": "529862c5c7d5c512ec047cec7bebd27393f096f9ac828f1e9d2d3ae717292dfc"
+  },
+  {
+    "file": "41467_2024_52061_MOESM3_ESM.docx",
+    "bytes": 12821,
+    "sha256": "48f161bbf115ac1fe5305cedc02a3ae41cabc70e6b179754d1b0eedd055229ae"
+  },
+  {
+    "file": "41467_2024_52061_MOESM1_ESM.pdf",
+    "bytes": 6279413,
+    "sha256": "67cbd940a3ba80763ed509c713ec18928cbaaa22062389f87e0a00455d03bbf2"
+  },
+  {
+    "file": "41467_2024_52061_MOESM5_ESM.zip",
+    "bytes": 11924,
+    "sha256": "88bf6d0d48ae8d3ce8f830e07e29db8b66acf766f318293be85aeb9ad32b3830",
+    "contents": [
+      "Supplementary Data 2 Compounds-purity.xlsx"
+    ]
+  },
+  {
+    "file": "41467_2024_52061_MOESM6_ESM.zip",
+    "bytes": 3806612,
+    "sha256": "d72414103caa23e0d087994ed13fb8e171f1c6c79aea7122761dd783da3c65b4",
+    "contents": [
+      "LC-MS-spectra/KLHDC2/Z8381047289.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047276.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047060.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047277.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785669.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785655.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047088.PDF",
+      "LC-MS-spectra/KLHDC2/Z4079348547.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047063.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047077.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047076.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785708.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785697.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785863.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785877.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047264.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047258.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047072.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047073.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047265.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047065.PDF",
+      "LC-MS-spectra/KLHDC2/Z3587812408.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785646.PDF",
+      "LC-MS-spectra/KLHDC2/Z1991867624.PDF",
+      "LC-MS-spectra/KLHDC2/Z4983979702.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785813.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785753.PDF",
+      "LC-MS-spectra/KLHDC2/Z3009405982.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785833.PDF",
+      "LC-MS-spectra/KLHDC2/Z1903295352.PDF",
+      "LC-MS-spectra/KLHDC2/Z1991864395.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785950.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785987.PDF",
+      "LC-MS-spectra/KLHDC2/Z1991868966.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785983.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785940.PDF",
+      "LC-MS-spectra/KLHDC2/Z1762701229.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785930.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785919.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785886.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785689.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785853.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785649.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047286.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047292.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785896.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047291.PDF",
+      "LC-MS-spectra/KLHDC2/Z8381047285.PDF",
+      "LC-MS-spectra/KLHDC2/Z7881785713.PDF",
+      "LC-MS-spectra/KLHDC2/Z802625304.PDF",
+      "LC-MS-spectra/Nav1.7/Z8718594710.PDF",
+      "LC-MS-spectra/Nav1.7/Z8718594704.PDF",
+      "LC-MS-spectra/Nav1.7/Z4415557415.PDF",
+      "LC-MS-spectra/Nav1.7/Z8718594701.PDF",
+      "LC-MS-spectra/Nav1.7/Z3831472882.PDF",
+      "LC-MS-spectra/Nav1.7/Z8739905023.PDF",
+      "LC-MS-spectra/Nav1.7/Z4315497494.PDF",
+      "LC-MS-spectra/Nav1.7/Z8739902231.PDF",
+      "LC-MS-spectra/Nav1.7/Z8739902234.PDF"
+    ]
+  }
+]
